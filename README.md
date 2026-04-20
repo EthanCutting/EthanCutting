@@ -105,7 +105,7 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 - Vulnerability scanning
 - Log analysis
 - Blue Team investigations
-- Basic penetration testing methodology
+- penetration testing methodology
 - Kali Linux
 - Hack The Box labs
 
@@ -113,7 +113,7 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 
 - Python
 - PowerShell basics
-- Bash basics
+- Bash
 - Network automation with Netmiko
 
 ---
