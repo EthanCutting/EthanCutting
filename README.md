@@ -72,7 +72,8 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 
 ### Hardware Troubleshooting
 - [Hardware](https://github.com/EthanCutting/Ethan-Cutting/tree/main/Hardware)
-  Hardware Troubleshooting
+  
+  Hardware Troubleshooting.
 
 ---
 
