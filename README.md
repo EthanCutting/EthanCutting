@@ -111,19 +111,8 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 
 ---
 
-## Current Goals
-
-- Build a strong IT and cybersecurity portfolio
-- Complete CCNA certification
-- Improve networking and troubleshooting skills
-- Build more Python automation tools
-- Gain entry-level IT Support / Help Desk experience
-- Progress towards Network Engineering
-
----
-
 ## Connect
 
 - GitHub: [EthanCutting](https://github.com/EthanCutting)
-- LinkedIn: Add your LinkedIn link here
-- Email: Add your email here
+- LinkedIn: www.linkedin.com/in/ethan-cutting-214a14208
+- Email: ethancutting000@gmail.com
