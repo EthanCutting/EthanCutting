@@ -30,6 +30,24 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 - [Sherlock Investigations](https://github.com/EthanCutting/Ethan-Cutting/tree/main/Sherlock)  
   Blue Team investigations including log analysis, IOC extraction, timeline reconstruction, and threat behaviour analysis.
 
+--- 
+
+### Web Development / Python
+
+- [Car Rental Portal](https://github.com/badamnshake/car-rental-portal)  
+  A Docker-based car rental web application with PHP, Python scripts, MySQL/phpMyAdmin, and image-processing functionality.
+
+  **What I worked on:**
+  - Built Python scripts for passport/image processing
+  - Added OCR-style document checking logic
+  - Used OpenCV and Tesseract for image/text processing
+  - Worked with Docker and Docker Compose
+  - Helped configure the local development environment
+  - Contributed to Google login fixes and backend logic
+
+  **Technologies used:**  
+  Python, PHP, Docker, Docker Compose, MySQL, phpMyAdmin, OpenCV, Tesseract
+
 ---
 
 ### Python / Automation
