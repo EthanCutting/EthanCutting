@@ -70,7 +70,14 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 ### Python / Automation
 
 - [Scripts](https://github.com/EthanCutting/Ethan-Cutting/tree/main/Scripts)  
-  Python scripts for automation, networking, security tooling, and lab support.
+  A collection of Python scripts built for automation, networking, cybersecurity practice, and lab support.
+
+  **Included work:**
+  - Password generator script with user-defined length and strong randomisation
+  - Subnet calculator for basic networking and IP planning practice
+  - System information checker with a Tkinter GUI and live GPU temperature monitoring
+  - Port scanning / network scripting tools for learning automation and troubleshooting
+  - Security-focused scripts created as part of personal lab work and skill development
 
 ---
 
