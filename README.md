@@ -81,6 +81,10 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+
+---
+
 ## Skills
 
 ### IT Support
