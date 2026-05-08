@@ -28,13 +28,13 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 
 ### Networking
 
-- [GNS3 Labs](https://github.com/EthanCutting/Ethan-Cutting/tree/main/GNS3)  
+- [GNS3 Labs](https://github.com/EthanCutting/Networking-Labs/tree/main/GNS3)  
   Enterprise-style networking labs using VLANs, DHCP, OSPF, NAT, ACLs, and Ubuntu administration.
 
-- [CCNA Labs](https://github.com/EthanCutting/Ethan-Cutting/tree/main/CCNA%20Labs)  
+- [Packet Tracer](https://github.com/EthanCutting/Networking-Labs/tree/main/Packer%20Tracer)  
   Cisco networking practice labs covering switching, routing, VLANs, trunking, DHCP, OSPF, and troubleshooting.
 
-- [SSH Setup](https://github.com/EthanCutting/Ethan-Cutting/tree/main/SSH)  
+- [SSH Setup](https://github.com/EthanCutting/SSH)  
   Secure remote access configuration and testing.
 
 ---
