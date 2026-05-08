@@ -133,6 +133,23 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 
 ---
 
+### Research / Technology Inquiry
+
+- [Technology Inquiry Project](https://github.com/EthanCutting/Technology-Inquiry-Project)  
+  A research-based technology project exploring how emerging technologies can be analysed, evaluated, and applied within IT, cybersecurity, and modern digital environments.
+
+  **What I worked on:**
+  - Researched a technology-related topic and its real-world impact
+  - Analysed technical, social, ethical, and security considerations
+  - Developed structured written documentation
+  - Practised academic research, referencing, and technical communication
+  - Connected theory with practical IT and cybersecurity concepts
+
+  **Skills developed:**  
+  Research, technical writing, cybersecurity awareness, technology analysis, documentation, critical thinking
+
+---
+
 ## Skills
 
 ### IT Support
