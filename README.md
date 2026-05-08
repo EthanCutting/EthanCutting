@@ -69,15 +69,42 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 
 ### Python / Automation
 
-- [Scripts](https://github.com/EthanCutting/Ethan-Cutting/tree/main/Scripts)  
-  A collection of Python scripts built for automation, networking, cybersecurity practice, and lab support.
+- [Random Password Generator](https://github.com/EthanCutting/Random-Password)  
+  A Python password generator built to practise scripting, user input handling, randomisation, and basic security concepts.
 
-  **Included work:**
-  - Password generator script with user-defined length and strong randomisation
-  - Subnet calculator for basic networking and IP planning practice
-  - System information checker with a Tkinter GUI and live GPU temperature monitoring
-  - Port scanning / network scripting tools for learning automation and troubleshooting
-  - Security-focused scripts created as part of personal lab work and skill development
+  **What I worked on:**
+  - Created user-defined password length input
+  - Added randomised character selection
+  - Used lowercase, uppercase, numbers, and symbols
+  - Practised writing clean and reusable Python logic
+
+- [PoryScanner](https://github.com/EthanCutting/PoryScanner)  
+  A Python network scanning tool built for learning port scanning, socket programming, and basic network reconnaissance in a safe lab environment.
+
+  **What I worked on:**
+  - Built TCP port scanning functionality
+  - Added quick scan and custom scan options
+  - Used sockets to test open and closed ports
+  - Added service guessing and result output
+  - Practised networking automation and troubleshooting
+
+- [Subnet Calculator](https://github.com/EthanCutting/Subnet-Cal)  
+  A Python subnet calculator built to practise IP addressing, subnetting, and networking fundamentals.
+
+  **What I worked on:**
+  - Calculated subnet information from user input
+  - Practised IP addressing and CIDR notation
+  - Used the project to strengthen networking fundamentals
+  - Built it as part of my Python and networking learning journey
+
+- [System Info Checker](https://github.com/EthanCutting/System-Info-Checker)  
+  A Python desktop tool for checking system information using a Tkinter GUI.
+
+  **What I worked on:**
+  - Built a GUI using Tkinter
+  - Displayed system and hardware information
+  - Added live GPU temperature monitoring
+  - Practised Python GUI development and hardware troubleshooting
 
 ---
 
