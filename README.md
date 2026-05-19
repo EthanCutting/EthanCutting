@@ -64,6 +64,41 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 
   **Technologies used:**  
   Python, PHP, Docker, Docker Compose, MySQL, phpMyAdmin, OpenCV, Tesseract
+  
+---
+
+### LoRa-Shield
+- [LoRa Shield Project](https://github.com/EthanCutting/LoRa-Shield-Project)  
+  A hardware communication project using LoRa radio modules to send encrypted messages between a relay/transmitter and receiver.
+
+  **What I worked on:**
+  - Built Arduino Relay and Receiver code for LoRa communication
+  - Configured RF95 LoRa settings including frequency, transmit power, bandwidth, and spreading factor
+  - Added AES encryption for secure message transmission
+  - Added receiver-side message decryption and CRC32 checksum checking
+  - Used Python to connect serial communication with a local WebSocket service
+  - Built a simple Node.js WebSocket server to pass messages between connected clients
+  - Practised embedded systems, serial communication, encryption, and hardware-based networking
+
+  **Technologies used:**  
+  Arduino, C++, LoRa, RF95, SPI, AES, CRC32, Python, pySerial, WebSockets, Node.js, JavaScript
+
+---
+
+### Research / Technology Inquiry
+
+- [Technology Inquiry Project](https://github.com/EthanCutting/Technology-Inquiry-Project)  
+  A research-based technology project exploring how emerging technologies can be analysed, evaluated, and applied within IT, cybersecurity, and modern digital environments.
+
+  **What I worked on:**
+  - Researched a technology-related topic and its real-world impact
+  - Analysed technical, social, ethical, and security considerations
+  - Developed structured written documentation
+  - Practised academic research, referencing, and technical communication
+  - Connected theory with practical IT and cybersecurity concepts
+
+  **Skills developed:**  
+  Research, technical writing, cybersecurity awareness, technology analysis, documentation, critical thinking
 
 ---
 
@@ -112,41 +147,6 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 - [Hardware](https://github.com/EthanCutting/Hardware)
   
   Hardware Troubleshooting.
-
----
-
-### LoRa-Shield
-- [LoRa Shield Project](https://github.com/EthanCutting/LoRa-Shield-Project)  
-  A hardware communication project using LoRa radio modules to send encrypted messages between a relay/transmitter and receiver.
-
-  **What I worked on:**
-  - Built Arduino Relay and Receiver code for LoRa communication
-  - Configured RF95 LoRa settings including frequency, transmit power, bandwidth, and spreading factor
-  - Added AES encryption for secure message transmission
-  - Added receiver-side message decryption and CRC32 checksum checking
-  - Used Python to connect serial communication with a local WebSocket service
-  - Built a simple Node.js WebSocket server to pass messages between connected clients
-  - Practised embedded systems, serial communication, encryption, and hardware-based networking
-
-  **Technologies used:**  
-  Arduino, C++, LoRa, RF95, SPI, AES, CRC32, Python, pySerial, WebSockets, Node.js, JavaScript
-
----
-
-### Research / Technology Inquiry
-
-- [Technology Inquiry Project](https://github.com/EthanCutting/Technology-Inquiry-Project)  
-  A research-based technology project exploring how emerging technologies can be analysed, evaluated, and applied within IT, cybersecurity, and modern digital environments.
-
-  **What I worked on:**
-  - Researched a technology-related topic and its real-world impact
-  - Analysed technical, social, ethical, and security considerations
-  - Developed structured written documentation
-  - Practised academic research, referencing, and technical communication
-  - Connected theory with practical IT and cybersecurity concepts
-
-  **Skills developed:**  
-  Research, technical writing, cybersecurity awareness, technology analysis, documentation, critical thinking
 
 ---
 
