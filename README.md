@@ -102,6 +102,13 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
 
 ---
 
+### Hardware Troubleshooting
+- [Hardware](https://github.com/EthanCutting/Hardware)
+  
+  Hardware Troubleshooting.
+
+---
+
 ### Python / Automation
 
 - [Random Password Generator](https://github.com/EthanCutting/Random-Password)  
@@ -141,12 +148,17 @@ I use this GitHub to document my labs, projects, scripts, and learning journey a
   - Added live GPU temperature monitoring
   - Practised Python GUI development and hardware troubleshooting
 
----
+- [TCP/UDP Traffic Stress Testing Script](https://github.com/EthanCutting/TCP-UDP-Traffic-Stress-Testing-Script/tree/main)
+  A Python networking script for learning socket programming, threading, traffic testing, and logging in a safe local lab environment.
 
-### Hardware Troubleshooting
-- [Hardware](https://github.com/EthanCutting/Hardware)
-  
-  Hardware Troubleshooting.
+  **What I worked on:**
+
+  * Built TCP socket connection logic
+  * Used threading to run multiple packet-sending workers
+  * Added different traffic testing modes
+  * Logged connection attempts, errors, packet counts, and socket closures
+  * Practised Python networking and cybersecurity lab testing
+
 
 ---
 
